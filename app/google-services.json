@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665385324294",
+    "firebase_url": "https://instagramdashboard-5be70.firebaseio.com",
+    "project_id": "instagramdashboard-5be70",
+    "storage_bucket": "instagramdashboard-5be70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665385324294:android:2889744fa45df2d0",
+        "android_client_info": {
+          "package_name": "com.example.instagramdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665385324294-tbj2dg84bc44bd9odvuptlejbimi654j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagramdashboard",
+            "certificate_hash": "012b55b015cf8bf288b08d47e3d2d8c7c0f6c60a"
+          }
+        },
+        {
+          "client_id": "665385324294-l5j9juc1sr5ondi2e91orbia3r45q7tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-hJk1IjOvUEbG0B6RQzn4K5PXukX4Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665385324294-l5j9juc1sr5ondi2e91orbia3r45q7tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
