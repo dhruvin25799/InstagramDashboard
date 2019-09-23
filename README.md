@@ -1,7 +1,7 @@
 # InstagramDashboard
 
 - Android application for Instagram Dashboard.
-- Displays information about a person's Instagram Profile and also accounts for increase and decrease in count each day.
+- Displays information about a person's Instagram Profile and also checks and displays for increase and decrease in count each day.
 
 ## Features
 - Uses Firebase Authentication
